@@ -1,0 +1,2 @@
+# changanjiemianzidongshibeierweima
+仿微信客户端 长按界面会自动识别二维码
